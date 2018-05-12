@@ -1,10 +1,16 @@
 _repo: Koyhia-ja-rikkaita_50686
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lassinen, Emil
     gutenberg_agent_id: '37583'
     url: http://www.gutenberg.org/2009/agents/37583
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50686#Koyhia-ja-rikkaita
 gutenberg_issued: '2015-12-13'
 gutenberg_type: Text
 identifiers:
